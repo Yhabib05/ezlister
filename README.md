@@ -36,15 +36,7 @@ cd ezlister
 
 #### Install dependencies
 
-Install the required Python packages using pip:
-
-```bash
-pip install -r requirements.txt
-```
-
-#### Install EzLister
-
-Finally, install EzLister itself. For a regular installation:
+Install EzLister itself, and the required Python packages. For a regular installation:
 
 ```bash
 pip install .
